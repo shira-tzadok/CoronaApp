@@ -1,0 +1,40 @@
+[
+  {
+    "PatientId": "111",
+    "LastName": "cohen",
+    "FirstName": "yonatan",
+    "LocationList": [
+      {
+        "City": "Netivot",
+        "StartDate": "2022-05-21T20:18:43.211Z",
+        "EndDate": "2022-05-21T20:18:43.211Z",
+        "Description": "Restaurant"
+      },
+      {
+        "City": "bnei brack",
+        "StartDate": "2018-05-21T20:18:43.211Z",
+        "EndDate": "2018-05-21T20:18:43.211Z",
+        "Description": "Restaurant"
+      }
+    ]
+  },
+  {
+    "PatientId": "222",
+    "LastName": "levi",
+    "FirstName": "shimon",
+    "LocationList": [
+      {
+        "City": "Netivot",
+        "StartDate": "2022-05-21T20:18:43.211Z",
+        "EndDate": "2022-05-21T20:18:43.211Z",
+        "Description": "Restaurant"
+      },
+      {
+        "City": "bnei brack",
+        "StartDate": "2022-05-21T20:18:43.211Z",
+        "EndDate": "2022-05-21T20:18:43.211Z",
+        "Description": "Restaurant"
+      }
+    ]
+  }
+]
